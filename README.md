@@ -1,5 +1,5 @@
 # Care Plus
-## BMI & Health Tracker App
+BMI & Health Tracker App
 
 ## Overview
 
